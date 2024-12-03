@@ -20,9 +20,9 @@ I'm trying improve my coding skills and become the best developer. 💪🏻
 <div id="social" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXIwMGlsanR2enc5dXk5NTg2ZTc3MHZ6bWhwdjFyN21hcDFlanVqNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/paTz7UZbPfTZFRYnnB/giphy.gif" hieght="200px" width="200px">
   <br>
-  <a href="www.linkedin.com/in/senuri-hansamini-5aa6aa266">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+
+  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/senuri-hansamini-5aa6aa266)
+  
 </div>
 
 <h3> Languages and Tools :</h3>
