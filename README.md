@@ -47,7 +47,8 @@ I'm trying improve my coding skills and become the best developer. 💪🏻
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/notion/notion-original.svg" title="Notion" alt="Notion" width="40" height="40">&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/figma/figma-original.svg" title="Figma" **alt="Unreal" width="40" height="40" >&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/intellij/intellij-original.svg" **alt="Intellij" width="40" height="40" >&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/vscode/vscode-original-wordmark.svg" **alt="VSCode" width="45" height="40" >&nbsp;
+  <br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/vscode/vscode-original-wordmark.svg" **alt="VSCode" width="45" height="40" >&nbsp;&nbsp;
 </div>
 
 <br><br>
