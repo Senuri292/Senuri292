@@ -9,15 +9,13 @@
 
 I'm trying improve my coding skills and become the best developer. 💪🏻
 
-Projects I'm currently working on:
-
-Real time ticketing system
-
-Game development project Transcendent Trail: The Maze
-
-Software development project RE:Live
-
-Software development project VistaRover
+<h3> Projects I'm currently working on :</h3>
+<ul>
+<li>Real time ticketing system</li>
+<li>Game development project Transcendent Trail: The Maze</li>
+<li>Software development project RE:Live</li>
+<li>Software development project VistaRover</li>
+</ul>
 
 <div id="social" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXIwMGlsanR2enc5dXk5NTg2ZTc3MHZ6bWhwdjFyN21hcDFlanVqNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/paTz7UZbPfTZFRYnnB/giphy.gif" hieght="200px" width="200px">
@@ -29,7 +27,7 @@ Software development project VistaRover
   <img src="https://komarev.com/ghpvc/?username=Senuri292&style=flat-square&color=blue" alt=""/>
 </div>
 
-### Languages and Tools :
+<h3> Languages and Tools :</h3>
 <br>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40" />&nbsp;
