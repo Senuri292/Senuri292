@@ -23,8 +23,6 @@ I'm trying improve my coding skills and become the best developer. 💪🏻
   <a href="www.linkedin.com/in/senuri-hansamini-5aa6aa266">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=Senuri292&style=flat-square&color=blue" alt=""/>
 </div>
 
 <h3> Languages and Tools :</h3>
@@ -53,3 +51,8 @@ I'm trying improve my coding skills and become the best developer. 💪🏻
 
 <br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Senuri292&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+<div id="social" align="center">
+  <img src="https://komarev.com/ghpvc/?username=Senuri292&style=flat-square&color=blue" alt=""/>
+</div>
