@@ -11,10 +11,10 @@ I'm trying improve my coding skills and become the best developer. 💪🏻
 
 <h3> Projects I'm currently working on :</h3>
 <ul>
-<li>Real time ticketing system</li>
 <li>Game development project Transcendent Trail: The Maze</li>
 <li>Software development project RE:Live</li>
 <li>Software development project VistaRover</li>
+<li>අArt Website</li>
 </ul>
 
 <div id="social" align="center">
