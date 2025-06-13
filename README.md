@@ -11,7 +11,7 @@ I'm trying improve my coding skills and become the best developer. 💪🏻
 
 <h3> Projects I'm currently working on :</h3>
 <ul>
-<li>Software development project VistaRover</li>
+<li>Software development project CarPool LK</li>
 <li>අArt Website</li>
 </ul>
 
