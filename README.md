@@ -1,4 +1,4 @@
-<img src="https://github.blog/wp-content/uploads/2020/12/wallpaper_footer_4KUHD_16_9.png">
+<img src="https://wallpapercave.com/wp/wp3082255.jpg">
 
 <h1>
   Hello! I'm Senuri.
