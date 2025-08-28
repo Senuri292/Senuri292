@@ -1,4 +1,4 @@
-<img src="https://img.freepik.com/free-photo/glasses-lie-laptop-reflecting-light-from-screen-dark_169016-53056.jpg?t=st=1733199634~exp=1733203234~hmac=4a90f843523a23d4ff68d03a5c0aa918fc2fb4dedb5a814df4dc67da0f4d1127&w=1380">
+/*<img src="">*/
 
 <h1>
   Hello! I'm Senuri.
