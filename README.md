@@ -42,11 +42,11 @@ I'm trying improve my coding skills and become the best developer. 💪🏻
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40" >&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/postgresql/postgresql-original-wordmark.svg" title="Postgre" alt="Postgre" width="40" height="40">&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40" >&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Unreal_Engine_logo_and_wordmark.png/151px-Unreal_Engine_logo_and_wordmark.png" title="Unreal" **alt="Unreal Engine" width="40" height="40" >&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Unreal_Engine_logo_and_wordmark.png/151px-Unreal_Engine_logo_and_wordmark.png" title="Unreal Engine" alt="Unreal Engine" width="40" height="40" >&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="45" height="40" >&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/blender/blender-original-wordmark.svg" title="Blender" alt="Blender" width="40" height="40">&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/notion/notion-original.svg" title="Notion" alt="Notion" width="40" height="40">&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/figma/figma-original.svg" title="Figma" **alt="Unreal" width="40" height="40" >&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/figma/figma-original.svg" title="Figma" **alt="figma" width="40" height="40" >&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/intellij/intellij-original.svg" title="Intellij" alt="Intellij" width="40" height="40" >&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/vscode/vscode-original-wordmark.svg" title="VScode" alt="VSCode" width="45" height="40" >&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" width="45" height="40" >&nbsp;&nbsp;
