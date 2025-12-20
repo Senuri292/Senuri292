@@ -12,6 +12,7 @@ I'm trying improve my coding skills and become the best developer. 💪🏻
 <h3> Projects I'm currently working on :</h3>
 <ul>
 <li>Software development project CarPool LK</li>
+<li>Research Project Daedalum</li>
 </ul>
 
 <div id="social" align="center">
