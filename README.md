@@ -42,7 +42,6 @@ I'm trying improve my coding skills and become the best developer. 💪🏻
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40" >&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/postgresql/postgresql-original-wordmark.svg" title="Postgre" alt="Postgre" width="40" height="40">&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40" >&nbsp;&nbsp;
-
   <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="45" height="40" >&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/blender/blender-original-wordmark.svg" title="Blender" alt="Blender" width="40"
   height="40">&nbsp;&nbsp;
